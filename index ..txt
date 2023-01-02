@@ -174,7 +174,7 @@ Re-type password:
     </section>
 
     <footer>
-<p>KINDLY GIVE YOUR VALUABLE FEEDBACK:</p>
+<p>KINDLY GIVE YOUR VALUABLE FEEDBACK : </p>
 
 <form>
   <input type="radio" id="AVERAGE ONE" name="fav_language" value="AVERAGE ONE">
